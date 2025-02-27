@@ -9,7 +9,7 @@ A simple, interactive **To-Do List** application built with **React**. The app a
 - 🎨 Red and black theme for a modern UI
 
 ## Demo 🎥
-You can view a live demo of the application by visiting [your demo URL here] (optional).
+You can view a live demo of the application by visiting [https://todolistrec.netlify.app/]
 
 ## Technologies Used ⚙️
 - **React**: A JavaScript library for building user interfaces. ⚛️
