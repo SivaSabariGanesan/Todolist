@@ -47,7 +47,7 @@ Start the development server to view the app in your browser:
 npm start
 ```
 
-The app will be running at [http://localhost:3000](http://localhost:3000) by default.
+The app will be running at [http://localhost:5173](http://localhost:5173) by default.
 
 ## Usage 🖱️
 
